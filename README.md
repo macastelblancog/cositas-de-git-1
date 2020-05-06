@@ -10,4 +10,8 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 [Enlace a Google](https://www.google.com)
 
-![Villa de Leyva](https://upload.wikimedia.org/wikipedia/commons/6/66/Villadeleyva04.jpg)
+![Pamplona](https://img.fotocommunity.com/museo-de-arte-moderno-eduardo-ramrez-villamizar-de-pamplona-colombia-29c63183-4163-4c44-8d49-7b9920e6bf2b.jpg?width=1000)
+
+### Acerca del autor
+
+María Gabriela Suárez nació el 25 de marzo del 2000 en Pamplona en Colombia y estudia actualmente Física y Geociencias en la Universidad de los Andes en Bogotá, Colombia. 
