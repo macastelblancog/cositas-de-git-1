@@ -14,4 +14,6 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 ### Acerca del autor
 
-María Gabriela Suárez nació el 25 de marzo del 2000 en Pamplona en Colombia y estudia actualmente Física y Geociencias en la Universidad de los Andes en Bogotá, Colombia. 
+María Gabriela Suárez nació el 25 de marzo del 2000 en Pamplona en Colombia y estudia actualmente Física y Geociencias en la Universidad de los Andes en Bogotá, Colombia.
+
+Miguel Castelblanco naciò el 30 de marzo de 1998 en Bogotà Colombia. Le gusta la foto del Museo Ramirez Vilamizar.
